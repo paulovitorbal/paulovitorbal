@@ -15,8 +15,18 @@ I strive to build reliable software that is tested, manteinable and easy to unde
 
 ## Employment history
 
+### Senior Software engineer and team lead at HardwareBr Institute, Brasilia 🇧🇷
+> October 2025 - Present
+
+* Lead a team of 8 developers across 3 concurrent projects, driving
+architectural decisions and ensuring high technical quality standards.
+* Facilitate clear communication to align development efforts with
+strategic company goals.
+* Mentor team members to develop personalized growth strategies,
+supporting both individual career paths and organizational success
+
 ### Software engineer at Banco do Brasil, Brasilia 🇧🇷
-> November 2022  - now
+> November 2022  - October 2025
 
 Working on an internal knowledge base that stores the procedures that all the company workers must follow. This is a system rebuild from scratch using Java Quarkus and Oracle.
 
@@ -52,8 +62,10 @@ __other experience are on my [LinkedIn](https://www.linkedin.com/in/paulovitorba
 * ⭐⭐⭐⭐   Design Patterns
 * ⭐⭐⭐⭐   Zend Framework
 * ⭐⭐⭐⭐   Linux
+* ⭐⭐⭐⭐   Python
 * ⭐⭐⭐     Laravel
 * ⭐⭐⭐     Java
+* ⭐⭐⭐     C#
 * ⭐⭐⭐     Quarkus
 
   
