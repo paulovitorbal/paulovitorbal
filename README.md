@@ -2,6 +2,10 @@
 > 🐘 PHP Developer
 > 
 > ☕ Java Developer
+>
+> 🐍 Python
+>
+> 💼 C#
 > 
 > 🇧🇷 Brasília, DF (UTC-3)
 > 
