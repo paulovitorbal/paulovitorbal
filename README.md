@@ -1,6 +1,5 @@
 ## Paulo Vitor Bettini de Paiva Lima
-> Currently: Software Development Manager @ Instituto Hardware BR
-> 🐘 PHP Developer
+> 🐘 PHP
 > 
 > ☕ Java
 >
