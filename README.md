@@ -1,7 +1,8 @@
 ## Paulo Vitor Bettini de Paiva Lima
+> Currently: Software Development Manager @ Instituto Hardware BR
 > 🐘 PHP Developer
 > 
-> ☕ Java Developer
+> ☕ Java
 >
 > 🐍 Python
 >
@@ -19,10 +20,10 @@ I strive to build reliable software that is tested, manteinable and easy to unde
 
 ## Employment history
 
-### Senior Software engineer and team lead at HardwareBr Institute, Brasilia 🇧🇷
+### Senior Software engineer and Software Development Manager at HardwareBr Institute, Brasilia 🇧🇷
 > October 2025 - Present
 
-* Lead a team of 8 developers across 3 concurrent projects, driving
+* Lead a team of 8 developers across 4 concurrent projects, driving
 architectural decisions and ensuring high technical quality standards.
 * Facilitate clear communication to align development efforts with
 strategic company goals.
